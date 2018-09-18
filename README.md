@@ -12,8 +12,8 @@ Submissions are due 1 week after the close of Cisco 3rd quarter (May 10th 2019).
 
 Scoring criteria:
 
-Creativity of solution (Using code to enable functionality otherwise unavailable) Completeness of solution Re-usability/Code quality Documentation Inline comments, Use of variables, Recorded demo, Ease of install Containerization preferred, Impact of solution on your business, Time/money saved, Business agility gained, Infrastructure availability improvement, Business transformation.
+Creativity of solution (Using code to enable functionality otherwise unavailable) Completeness of solution Re-usability/Code quality Documentation Inline comments, Use of variables, Recorded demo, Ease of install (Containerization preferred), Impact of solution on your business, Time/money saved, Business agility gained, Infrastructure availability improvement, Business transformation.
 
-Selected submissions will be added to DevNet Code Exchange
+Selected submissions will be added to the DevNet Code Exchange (link below)
 https://developer.cisco.com/codeexchange/
 
