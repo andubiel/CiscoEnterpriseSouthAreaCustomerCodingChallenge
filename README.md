@@ -30,5 +30,5 @@ Impact of solution on your business,
 * Business transformation.
 
 Selected submissions will be added to the DevNet Code Exchange (link below)
-https://developer.cisco.com/codeexchange/
+* https://developer.cisco.com/codeexchange/
 
